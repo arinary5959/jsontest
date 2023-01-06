@@ -1,0 +1,25 @@
+{
+    "quiz":[
+       {
+          "num":1,
+          "crrAnswer":"가나다",
+          "answers":[
+             "가나다",
+             "마바사아",
+             "자차카타파하"
+          ],
+          "quizImgSrc":"https://via.placeholder.com/150"
+       },
+       {
+          "num":2,
+          "crrAnswer":"라리루",
+          "answers":[
+             "라리루",
+             "루뢰로",
+             "자차카타파하"
+          ],
+          "quizImgSrc":"https://via.placeholder.com/200"
+       }
+    ],
+    "unCrr":"uncrr"
+ }
